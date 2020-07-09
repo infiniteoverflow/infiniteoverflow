@@ -2,8 +2,6 @@
 
 I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
 
-I am also a vouched Mozillian and have volunteered for some of the Mozilla events held in Bangalore. 
-
 I love building Mobile apps because i believe Apps have the power to drive people and change the way we perceive the world. And i love working and researching in various fields of Artificial Intelligence and working towards integrating it with wonderful Apps.
 
 - 🔭 I’m currently working on Flutter :iphone: , Machine Learning :computer: , Computer Vision :eye:
