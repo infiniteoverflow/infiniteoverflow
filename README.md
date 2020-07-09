@@ -1,16 +1,16 @@
-### Hi there , Searching for some great ideas for this bio !!👋
+### Hi there 👋
 
-<!--
-**infiniteoverflow/infiniteoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
 
-Here are some ideas to get you started:
+I am also a vouched Mozillian and have volunteered for some of the Mozilla events held in Bangalore. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building Mobile apps because i believe Apps have the power to drive people and change the way we perceive the world. And i love working and researching in various fields of Artificial Intelligence and working towards integrating it with wonderful Apps.
+
+- 🔭 I’m currently working on Flutter :iphone: , Machine Learning :computer: , Computer Vision :eye:
+- 🌱 I’m currently learning Computer Vision
+- 👯 I’m looking to collaborate on any open source project within my field of expertise.
+- 🤔 I’m looking for help with innovative ideas.
+- 💬 Ask me about Flutter , ML/DL , CV , Programming languages like Python and C++.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aswin-gopinathan-69556716a/) , [Twitter](https://twitter.com/GopinathanAswin) 
+- ⚡ Fun fact: Umm , lemme think about it. Keeping it for the next commit coz i love the green boxes when u scroll down this page :heart:
+
