@@ -12,3 +12,4 @@ I love building Mobile apps because i believe Apps have the power to drive peopl
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aswin-gopinathan-69556716a/) , [Twitter](https://twitter.com/GopinathanAswin) 
 - ⚡ Fun fact: Umm , lemme think about it. Keeping it for the next commit coz i love the green boxes when u scroll down this page :heart:
 
+<img src="https://github-readme-stats.vercel.app/api?username=infiniteoverflow&&show_icons=true&title_color=eb9834&icon_color=34d0eb&text_color=daf7dc&bg_color=191919">
