@@ -1,7 +1,7 @@
 
 # Hello there , :hand:
 
-![](https://gpvc.arturio.dev/infiniteoverflow)
+ **Profile Views** <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading">
 
 I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
 
@@ -31,6 +31,5 @@ I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , B
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoverflow&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
  
- <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading">
 
 
