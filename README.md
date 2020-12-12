@@ -30,4 +30,7 @@ I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , B
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoverflow&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+ 
+ <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading">
+
 
