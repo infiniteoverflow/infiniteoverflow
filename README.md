@@ -4,7 +4,7 @@
  ## Profile Views
  <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading"> <br>
 
-I am a 3rd year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
+I am a final year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
 
 ## My Tech-Stack
 
