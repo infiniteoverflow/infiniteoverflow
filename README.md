@@ -6,6 +6,14 @@
 
 I am a final year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=infiniteoverflow)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=infiniteoverflow&show_icons=true&count_private=true) 
+
+![GitHub metrics](https://metrics.lecoq.io/infiniteoverflow)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=infiniteoverflow)
+
 ## My Tech-Stack
 
 **Programming Languages**  
