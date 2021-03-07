@@ -1,5 +1,6 @@
-
-<img src='https://github.com/infiniteoverflow/infiniteoverflow/blob/master/indian.png' height=300 width=500/>
+<p align="center">
+  <img src='https://images.unsplash.com/photo-1570863102242-7d03ca0f4bd0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8aW5kaWFuJTIwZmxhZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80' height=300 width=500/>
+</p>
 
  ## Profile Views
  <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading"> <br>
