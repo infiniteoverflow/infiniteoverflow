@@ -11,6 +11,8 @@ I am a final year CSE Student from Sir M. Visvesvaraya Institute of Technology ,
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=infiniteoverflow)
 
+[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=infiniteoverflow&theme=redical)](https://github.com/infiniteoverflow/github-readme-activity-graph)
+
 ## My Tech-Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
