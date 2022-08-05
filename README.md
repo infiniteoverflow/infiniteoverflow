@@ -5,7 +5,8 @@
  ## Profile Views
  <img align="left" src = "https://profile-counter.glitch.me/infiniteoverflow/count.svg" alt ="Loading"> <br>
 
-I am a final year CSE Student from Sir M. Visvesvaraya Institute of Technology , Bangalore. I am currently the Mentor and Lead of Glug MVIT and also the Team Lead of the App Dev team of GLUG. We work towards building open source projects which acts as a learning experience for young and enthusiastic developers.  
+I am a Software Engineer at ZestMoney, currently building their iOS Application. I love learning new things in the world of Flutter, and what i love the most is sharing what i learn with the wonderful people in the community!
+I wake up every day with a mission to learn something new. Working with amazing people at Zest, i get one step closer to my dreams.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=infiniteoverflow)](https://github.com/ryo-ma/github-profile-trophy)
 
