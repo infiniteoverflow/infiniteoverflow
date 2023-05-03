@@ -18,7 +18,7 @@ I wake up every day with a mission to learn something new. Working with amazing 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-02569B?style=for-the-badge&logo=firebase&color=yellow)
-![Python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&color=blue)
+![Swift](https://img.shields.io/badge/swift-02569B?style=for-the-badge&logo=swift&color=black)
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoverflow&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
