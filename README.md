@@ -15,10 +15,9 @@ I wake up every day with a mission to learn something new.
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=infiniteoverflow&theme=redical)](https://github.com/infiniteoverflow/github-readme-activity-graph)
 
 ## My Tech-Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-02569B?style=for-the-badge&logo=firebase&color=yellow)
+![iOS Developer](https://img.shields.io/badge/developer-02569B?style=for-the-badge&logo=ios&color=black)
 ![Swift](https://img.shields.io/badge/swift-02569B?style=for-the-badge&logo=swift&color=black)
+![Firebase](https://img.shields.io/badge/Firebase-02569B?style=for-the-badge&logo=firebase&color=yellow)
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoverflow&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
